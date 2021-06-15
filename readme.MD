@@ -22,4 +22,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oryange&show_icons=true&title_color=f32f92&locale=en" alt="oryange" /></p>
 <br></br><br></br><br></br>
 
-![Snake animation](https://github.com/oryange/oryange/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Oryange/Oryange/blob/output/github-contribution-grid-snake.svg)
