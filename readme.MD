@@ -1,6 +1,6 @@
 <h1 align="left">Oi 👋, eu sou a Oryange Strifezze</h1>
 <img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1623767701657.png" width=20% align="right"/>
-<h3 align="left">Uma apaixonada estudante de desenvolvimento web, do Brasil.</h3>
+<h3 align="left">Sou Desenvolvedora web e estudante de Ciência da Computação </h3>
 
 - 👨‍💻 Todos os meus projetos [https://oryange.github.io/](https://oryange.github.io/)
 
