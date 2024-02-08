@@ -1,4 +1,4 @@
-<h1 align="left">Oi 👋, eu sou a Oryange Strifezze</h1>
+<h1 align="left">✨ Desenvolvedora Android Nativo | Kotlin Enthusiast ✨</h1>
 <img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1623767701657.png" width=20% align="right"/>
 <h3 align="left">Sou Desenvolvedora web e estudante de Ciência da Computação </h3>
 
