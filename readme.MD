@@ -1,5 +1,4 @@
 <h2 align="left">✨ Desenvolvedora Android Nativo | Kotlin Enthusiast ✨</h2>
-<img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1623767701657.png" width=20% align="right"/>
 <h3 align="left">Olá! Sou uma profissional apaixonada pelo universo do desenvolvimento mobile, especializada em Android Nativo com ênfase em Kotlin. </h3>
 
 🚀 Experiência e Especialização:
